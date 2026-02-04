@@ -1,0 +1,2 @@
+# Requires: anti-latency
+# (Not available on PyPI)
